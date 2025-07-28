@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/device-usage-analytics-platform-18157-18187/user_telemetry_frontend
+flutter analyze
+
